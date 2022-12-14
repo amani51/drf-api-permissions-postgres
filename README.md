@@ -34,4 +34,4 @@
 #### Tests
 - run command `docker-compose run web python manage.py test ` NOTES: make sure docker is still running 
 #### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/games-api/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/drf-api-permissions-postgres/pull/1)
